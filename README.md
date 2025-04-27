@@ -1,0 +1,1 @@
+# How-to-Delete-an-Azure-Resource-Group
